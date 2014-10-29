@@ -36,6 +36,7 @@ a:hover{
 	
 a:active {
 	text-decoration: none;
+	color: #73FFFD;
 	}
 
 
@@ -70,7 +71,7 @@ img.logo {
 
 #image {
 	height:580px;
-	background-image: url('images/intro.jpg');
+	background-image: url('images/int.jpg');
 	background-repeat: no-repeat;
 	background-origin: content-box;
 	background-size: 1500px auto;
@@ -117,6 +118,11 @@ p	{
 	width: 400px;
 	}
 	
+#picture {
+	margin-left:0;
+	margin-right:0;
+	}
+	
 #gallery {
 	padding-bottom: 10px;
 	width:25%;
@@ -127,3 +133,15 @@ footer {
 	height:200px;
 	background-color: #00D0FF;
 	}
+
+#space {
+	height: 118px;
+}
+
+@media screen and (max-width: 500px){
+	
+	P{	
+		text-align:justify;
+	}
+	
+}
