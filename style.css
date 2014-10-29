@@ -92,7 +92,7 @@ li {
 #intro{
 	margin: auto;
 	padding: auto;
-	width: 850px;
+	width: 100%;
 	height: 300px;
 	background-color: #ffffff;
 	border-bottom: dotted;
@@ -105,17 +105,9 @@ h1	{
 	color: #00D0FF;
 	}
 	
-#left-p{
-	float:left;
-	}
-#right-p{
-	float:right;
-	}
 	
 p	{
 	text-align: justify;
-	padding:px;
-	width: 400px;
 	}
 	
 #picture {
@@ -138,10 +130,35 @@ footer {
 	height: 118px;
 }
 
-@media screen and (max-width: 500px){
+/*desktop*/
+
+@media screen and (min-width: 500px){
+	
+	#intro{
+	margin: auto;
+	padding: auto;
+	width: 850px;
+	height: 300px;
+	background-color: #ffffff;
+	border-bottom: dotted;
+	border-width: 3px;
+	border-color: #efefef;
+	margin-bottom: 20px;
+	}
 	
 	P{	
-		text-align:justify;
+	text-align:justify;
+	padding:px;
+	width: 400px;
 	}
+	
+	#left-p{
+	float:left;
+	}
+	
+	#right-p{
+	float:right;
+	}
+	
 	
 }
