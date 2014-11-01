@@ -118,7 +118,7 @@ img {
 	height: 450px;
 	margin-left:0;
 	margin-right:0;
-	overflow-y: scroll;
+	overflow: scroll;
 	}
 	
 #gallery {
