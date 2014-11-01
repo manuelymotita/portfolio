@@ -107,7 +107,8 @@ h1	{
 p	{
 	color:#ffffff;
 	text-align: justify;
-	margin:10px;
+	margin-left:10px;
+	margin-right:10px;
 	width: 100%;
 	}
 
