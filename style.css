@@ -110,14 +110,20 @@ p	{
 	text-align: justify;
 	}
 	
-#picture {
+img {
+	display: inline;
+}
+	
+#pictures {
+	height: 450px;
 	margin-left:0;
 	margin-right:0;
+	overflow-y: scroll;
 	}
 	
 #gallery {
 	padding-bottom: 10px;
-	width:25%;
+	width:100%;
 	height: auto;
 	}
 
@@ -127,7 +133,7 @@ footer {
 	}
 
 #space {
-	height: 118px;
+	height: 60px;
 }
 
 /*desktop*/
@@ -160,5 +166,9 @@ footer {
 	float:right;
 	}
 	
-	
+	#gallery {
+	padding-bottom: 10px;
+	width:300px;
+	height: auto;
+	}
 }
