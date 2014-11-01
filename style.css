@@ -95,16 +95,17 @@ li {
 	padding: auto;
 	width: 100%;
 	height: 300px;
-	background-color: #ffffff;
+	background-color: #00D0FF;
 	margin-bottom: 20px;
 }
 
 h1	{
-	color: #00D0FF;
+	color: #ffffff;
 	}
 	
 	
 p	{
+	color:#ffffff;
 	text-align: justify;
 	margin:10px;
 	width: 100%;
