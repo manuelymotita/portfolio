@@ -59,13 +59,14 @@ img.logo {
 	margin: 0px;
 	padding: 0px;
 	position: fixed;
+	height: 100px;
 	width: 107%;
 	left: -19px;
 	background-image: url('images/top.png');
 	background-repeat: no-repeat;
 	background-origin: content-box;
 	background-size: 100% auto;
-	background-position: bottom;
+	background-position: top;
 	z-index: 10;
 	}
 
