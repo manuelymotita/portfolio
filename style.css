@@ -71,7 +71,7 @@ img.logo {
 	}
 
 #image {
-	height:580px;
+	height:100px;
 	background-image: url('images/intro.jpg');
 	background-repeat: no-repeat;
 	background-origin: content-box;
@@ -144,7 +144,7 @@ footer {
 	#intro{
 	margin: auto;
 	padding: auto;
-	width: 850px;
+	width: 100px;
 	height: 300px;
 	background-color: #ffffff;
 	border-bottom: dotted;
