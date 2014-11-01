@@ -99,7 +99,7 @@ li {
 	margin-bottom: 20px;
 }
 
-h1	{
+h1#about{
 	color: #ffffff;
 	}
 	
@@ -117,8 +117,10 @@ p	{
 	opacity: .7;
 	}
 */	
-img {
-	display: inline;
+
+h1#photography{
+	background-color:#00D0FF;
+	color: #ffffff;
 }
 	
 #pictures {
