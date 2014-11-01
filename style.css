@@ -71,7 +71,7 @@ img.logo {
 	}
 
 #image {
-	height:100px;
+	height:200px;
 	background-image: url('images/intro.jpg');
 	background-repeat: no-repeat;
 	background-origin: content-box;
@@ -116,6 +116,7 @@ img {
 }
 	
 #pictures {
+	width: 100%;
 	height: 400px;
 	margin-left:0;
 	margin-right:0;
