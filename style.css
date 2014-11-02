@@ -147,6 +147,13 @@ footer {
 	height: 60px;
 }
 
+#classWork {
+	position:relative;
+	top: 20px;
+	margin:auto;
+	padding:auto;
+}
+
 /*desktop*/
 
 @media screen and (min-width: 500px){
